@@ -1,0 +1,9 @@
+{
+    "editor.mouseWheelZoom": true,
+    "workbench.preferredHighContrastColorTheme": "Abyss",
+    "workbench.preferredDarkColorTheme": "Abyss",
+    "workbench.iconTheme": null,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.runInTerminal": true,
+    "code-runner.saveAllFilesBeforeRun": true
+}
